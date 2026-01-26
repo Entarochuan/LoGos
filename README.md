@@ -50,10 +50,10 @@ You can find our latest models and datasets in the following two tables.
 
 | Dataset Name | Description | Download Link | Size |
 |--------------|-------------|---------------|------|
-| Expert-Level Go Dataset | Expert Level Synthetic Go Dataset | On the way | 100K samples |
-| GRPO-Dataset-1K | dataset used in reinforcement learning | On the way | 1K samples |
-| KataGo-Bench-1K | Evaluation Benchmark for Go | On the way | 1K samples |
-| LoGos-distillation-1K | Responses from LoGos 32B | On the way | 1K samples |
+| Expert-Level Go Dataset | Expert Level Synthetic Go Dataset | [Expert-Go-SFT-100K](https://huggingface.co/datasets/YichuanMa/Expert-Go-SFT-100K) | 100K samples |
+| GRPO-Dataset-1K | dataset used in reinforcement learning | [GRPO-1K](https://huggingface.co/datasets/YichuanMa/Go-GRPO-1K) | 1K samples |
+| KataGo-Bench-1K | Evaluation Benchmark for Go | [KataGO-Bench-1k-eval.jsonl](KataGo-Bench-1K/GO_ELO/KataGO-1k-eval/eval-files/KataGO-Bench-1k-eval.jsonl) | 1K samples |
+| LoGos-distillation-1K | Responses from LoGos 32B | [LoGos Rollout 1K](https://huggingface.co/datasets/YichuanMa/LoGos-Rollout-1K) | 1K samples |
 
 ## **2. KataGo-Bench-1K: A Go Benchmark for LLM**
 
@@ -143,7 +143,15 @@ And see `Use_demo.py` for common usage.
 ## **5. Citation**
 
 ```bibtex
-Arxiv version Coming Soon :)
+@misc{ma2026mixingexpertknowledgebring,
+      title={Mixing Expert Knowledge: Bring Human Thoughts Back To the Game of Go}, 
+      author={Yichuan Ma and Linyang Li and Yongkang Chen and Peiji Li and Jiasheng Ye and Qipeng Guo and Dahua Lin and Kai Chen},
+      year={2026},
+      eprint={2601.16447},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.16447}, 
+}
 ```
 
 ## **6. License**
