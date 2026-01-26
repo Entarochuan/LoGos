@@ -14,7 +14,7 @@ We name our model <em><strong>LoGos</strong>,</em>  representing <em>"word"</em>
 </p>
 
 <p align="center">
-📃 <a href="https://neurips.cc/virtual/2025/poster/117166" target="_blank">Paper</a> ｜ 🤗 <a href="https://huggingface.co/YichuanMa/LoGos-7B" target="_blank">LoGos-7B</a> ｜ 🤗 <a href="" target="_blank">Datasets</a> ｜ 📧 <a href="mailto:mayichuan@pjlab.org.cn">Email</a>
+📃 <a href="https://neurips.cc/virtual/2025/poster/117166" target="_blank">Paper</a> ｜ 🤗 <a href="https://huggingface.co/YichuanMa/LoGos-7B" target="_blank">LoGos-7B</a> ｜ 🤗 <a href="https://huggingface.co/datasets/YichuanMa/Expert-Go-SFT-100K" target="_blank">Datasets</a> ｜ 📧 <a href="mailto:mayichuan@pjlab.org.cn">Email</a>
 </p>
 
 ## Overview
